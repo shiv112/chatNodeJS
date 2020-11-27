@@ -1,0 +1,8 @@
+heroku -v
+heroku login
+
+---------
+git init
+git add .
+git status
+git commit -m "first commit"
